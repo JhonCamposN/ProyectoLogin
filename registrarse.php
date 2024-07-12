@@ -44,7 +44,7 @@
         }
         .password-toggle .toggle-icon {
             position: absolute;
-            top: 50%;
+            top: 50px;
             right: 10px;
             transform: translateY(-50%);
             cursor: pointer;
