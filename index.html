@@ -8,7 +8,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
     <style>
         body {
-            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2i85hzz13fkacRTHYMtxuI4DvD1gMaRaxvw&s');
+            background-image: url('https://acortar.link/YlHt7p');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
