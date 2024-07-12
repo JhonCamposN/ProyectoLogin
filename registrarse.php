@@ -87,7 +87,7 @@
                         </form>
                     </div>
                     <div class="card-footer text-center">
-                        <a href="index.hmtl"><i class="fas fa-arrow-left"></i> Volver al Login</a>
+                        <a href="index.html"><i class="fas fa-arrow-left"></i> Volver al Login</a>
                     </div>
                     <?php
                     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
